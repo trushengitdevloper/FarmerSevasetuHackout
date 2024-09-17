@@ -1,6 +1,4 @@
 # FarmerSevasetuHackout
-# Next.js Project
-
 ## Overview
 
 This is a Next.js project. Next.js is a React framework that enables server-side rendering and generating static websites for React-based web applications.
